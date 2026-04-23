@@ -46,5 +46,22 @@ The final dataset includes:
 - Python (Pandas, Seaborn, Matplotlib) → Data cleaning, EDA, feature engineering
 - Power BI → Dashboard creation, KPI tracking, storytelling
 
+## METHODOLOGY
+- Data collection:Collected information from several tables, such as customer, subscription, usage, and tickets.
+- Data Preperation(PYTHON):Used Pandas to combine tables (subscription_id → account_id),Removed duplicates, dealt with missing values, and fixed data types ,Used groupby to combine usage data into one dataset,Use seaborn,coerrelation matrix to visualize data.
+- Data Analysis(SQL):Used queries to find out the churn rate and customer groups and used grouping and filtering to look at how people acted to gain business insights.
+- Visualization(POWER BI):Created an interactive dashboard with KPIs and churn data and added filters for country, plan, and industry.
+- Insight Generation:Making new ideas, compared key metrics for churned and active users and found patterns that help businesses make decisions.
+
+## KEY ANALYSIS STEPS
+- Compared churned vs active users across key metrics: usage, errors, and support tickets.
+- Tested hypotheses on potential churn drivers (e.g., higher errors, increased support interactions).
+- Created normalized metrics such as error rate to refine analysis.
+- Validated patterns using EDA and customer segmentation.
+
+
+  
+
+
   
 

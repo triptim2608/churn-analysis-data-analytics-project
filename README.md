@@ -18,7 +18,7 @@ A SaaS startup, RavenStack, conducted a pilot launch before going public and col
 - Documentation for each business problem
 - Model architecture of the project
 - Power BI dashboard for executive and risk ananlysis.
-- 
+  
 # Tools
 - SQL (MySQL) – Data cleaning, transformation, and business analysis.
 - Power BI – Interactive dashboards, KPIs, and visual storytelling.
